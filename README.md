@@ -8,3 +8,17 @@
 + fmt.Println("让我们一起来学GO语言吧，2021GO语言就业班，入门到就业，加油！")
 + fmt.Println("关注微信公众号：小龙说GO语言")
 + fmt.Println("关注杂七杂八编程知识微信公众号：小龙in武汉")
+
+1. 01Go语言基础
+2. 02WEB前端
+3. 03Mysql
+4. 04Iris框架及Iris大型在线教育后端开发项目
+5. 05Linux、Git、Nginx
+6. 06Redis、RabbitMq、RocketMq、Kafka
+7. 07Gin框架及Gin大型商城后端开发项目
+8. 08Go微服务分布式
+9. 09K8s项目及Prometheus开发
+10. 10Mongodb同步工具(百亿级)
+11. 11ELK二次开发
+12. 12Devops及程序员工具大平台开发
+13. 13简历及面试指导
