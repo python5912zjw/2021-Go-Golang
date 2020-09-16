@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eab95659-1114-4f62-8ec5-5982c222688e" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/01Go语言基础/环境安装/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01Go语言基础/环境安装/环境安装/test环境安装.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01Go语言基础/开篇/开篇.go" beforeDir="false" afterPath="$PROJECT_DIR$/01Go语言基础/开篇/开篇.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/小龙说GO语言.go" beforeDir="false" afterPath="$PROJECT_DIR$/小龙说GO语言.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,14 +61,32 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 小龙说GO语言.go">
+  <component name="RunManager" selected="Go Build.go build 小龙说GO语言.go (1)">
+    <configuration name="go build 小龙说GO语言.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="小龙说GO语言" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/小龙说GO语言.go" />
+      <package value="xiaolongtalkgo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build 小龙说GO语言.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="xiaolonginwuhan" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/小龙说GO语言.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="小龙说GO语言" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/01Go语言基础/环境安装/main.go" />
+      <package value="xiaolongtalkgo" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -63,6 +100,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 小龙说GO语言.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build 小龙说GO语言.go" />
         <item itemvalue="Go Build.go build xiaolongtalk.go" />
       </list>
@@ -70,6 +109,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -80,6 +130,10 @@
     </environment>
   </component>
   <component name="WindowStateProjectService">
+    <state x="295" y="0" key="#go_build_main.go" timestamp="1600269975976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="295" y="0" key="#go_build_main.go/0.0.1366.728@0.0.1366.728" timestamp="1600269975976" />
     <state x="295" y="0" key="#go_build_xiaolongtalk.go" timestamp="1600175797664">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -88,26 +142,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="295" y="0" key="#go_build_小龙说GO语言.go/0.0.1366.728@0.0.1366.728" timestamp="1600188122623" />
-    <state width="1313" height="315" key="GridCell.Tab.0.bottom" timestamp="1600190537274">
+    <state x="433" y="58" key="FileChooserDialogImpl" timestamp="1600269291266">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="315" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600190537274" />
-    <state width="1313" height="315" key="GridCell.Tab.0.center" timestamp="1600190537274">
+    <state x="433" y="58" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600269291266" />
+    <state width="1313" height="258" key="GridCell.Tab.0.bottom" timestamp="1600270634972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="315" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600190537274" />
-    <state width="1313" height="315" key="GridCell.Tab.0.left" timestamp="1600190537273">
+    <state width="1313" height="258" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600270634972" />
+    <state width="1313" height="258" key="GridCell.Tab.0.center" timestamp="1600270634971">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="315" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600190537273" />
-    <state width="1313" height="315" key="GridCell.Tab.0.right" timestamp="1600190537274">
+    <state width="1313" height="258" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600270634971" />
+    <state width="1313" height="258" key="GridCell.Tab.0.left" timestamp="1600270634971">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="315" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600190537274" />
-    <state x="75" y="0" key="SettingsEditor" timestamp="1600189481302">
+    <state width="1313" height="258" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600270634971" />
+    <state width="1313" height="258" key="GridCell.Tab.0.right" timestamp="1600270634972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="75" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600189481302" />
+    <state width="1313" height="258" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600270634972" />
+    <state x="75" y="0" key="SettingsEditor" timestamp="1600269374025">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="75" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600269374025" />
     <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1600187844386">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
