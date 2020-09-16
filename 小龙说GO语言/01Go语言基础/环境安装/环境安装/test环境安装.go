@@ -11,5 +11,5 @@ func(test *Test) Test1(){
 }
 
 func(test *Test) Test2(){
-	fmt.Println("GO语言环境安装文章:");
+	fmt.Println("GO语言环境安装文章:https://mp.weixin.qq.com/s/21fUoROA_TEC8Gv2Zq5RyA");
 }
