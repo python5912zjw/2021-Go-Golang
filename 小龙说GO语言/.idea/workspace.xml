@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eab95659-1114-4f62-8ec5-5982c222688e" name="默认更改列表" comment="" />
+    <list default="true" id="eab95659-1114-4f62-8ec5-5982c222688e" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Go语言基础/开篇/开篇.go" beforeDir="false" afterPath="$PROJECT_DIR$/01Go语言基础/开篇/开篇.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小龙说GO语言.go" beforeDir="false" afterPath="$PROJECT_DIR$/小龙说GO语言.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +42,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Go Build.go build 小龙说GO语言.go">
     <configuration name="go build 小龙说GO语言.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -80,29 +84,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="295" y="0" key="#go_build_xiaolongtalk.go/0.0.1366.728@0.0.1366.728" timestamp="1600175797664" />
-    <state x="295" y="0" key="#go_build_小龙说GO语言.go" timestamp="1600175852711">
+    <state x="295" y="0" key="#go_build_小龙说GO语言.go" timestamp="1600188122623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="#go_build_小龙说GO语言.go/0.0.1366.728@0.0.1366.728" timestamp="1600175852711" />
-    <state width="1313" height="170" key="GridCell.Tab.0.bottom" timestamp="1600180180801">
+    <state x="295" y="0" key="#go_build_小龙说GO语言.go/0.0.1366.728@0.0.1366.728" timestamp="1600188122623" />
+    <state width="1313" height="315" key="GridCell.Tab.0.bottom" timestamp="1600190537274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600180180801" />
-    <state width="1313" height="170" key="GridCell.Tab.0.center" timestamp="1600180180800">
+    <state width="1313" height="315" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600190537274" />
+    <state width="1313" height="315" key="GridCell.Tab.0.center" timestamp="1600190537274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600180180800" />
-    <state width="1313" height="170" key="GridCell.Tab.0.left" timestamp="1600180180800">
+    <state width="1313" height="315" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600190537274" />
+    <state width="1313" height="315" key="GridCell.Tab.0.left" timestamp="1600190537273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600180180800" />
-    <state width="1313" height="170" key="GridCell.Tab.0.right" timestamp="1600180180800">
+    <state width="1313" height="315" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600190537273" />
+    <state width="1313" height="315" key="GridCell.Tab.0.right" timestamp="1600190537274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600180180800" />
-    <state x="52" y="0" key="SettingsEditor" timestamp="1600177059454">
+    <state width="1313" height="315" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600190537274" />
+    <state x="75" y="0" key="SettingsEditor" timestamp="1600189481302">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="52" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600177059454" />
+    <state x="75" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600189481302" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1600187844386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600187844386" />
   </component>
 </project>
