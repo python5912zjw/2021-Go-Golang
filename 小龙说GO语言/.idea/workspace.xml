@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eab95659-1114-4f62-8ec5-5982c222688e" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/01Go语言基础/环境安装/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01Go语言基础/环境安装/环境安装/test环境安装.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小龙说GO语言.go" beforeDir="false" afterPath="$PROJECT_DIR$/小龙说GO语言.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Go语言基础/环境安装/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/01Go语言基础/环境安装/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01Go语言基础/环境安装/环境安装/test环境安装.go" beforeDir="false" afterPath="$PROJECT_DIR$/01Go语言基础/环境安装/环境安装/test环境安装.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
